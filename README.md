@@ -14,7 +14,7 @@ Features
 ```
 
 ### Requirements
- - summary.json file in the directory (ies)
+ - summary.json file in the directory(ies) [ <code> while executing fio use --output-format=json --output=summary.json </code> ]
  - iops and latency log for defined intervals in the job file.
 ```
    write_iops_log=iops
